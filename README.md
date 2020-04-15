@@ -17,7 +17,7 @@ pip install joblib
 ## Contributing
 The dataset we used isn't uploaded as its a real dataset which owned by Scotiabank. Although we have already submitted our project, we are still interested in improving our system for finding Human Traffickers in Canada. If you happen to specialize in discovering human trafficking or anti-money laundering we would love to hear suggestions! 
 
-## Competition Updates
-Our project is a finalist (top 6) for the competition. Still awaiting final results. 
+## Competition Results
+Our project won 2nd place at the 2020 Big Data + AI competition.
 
 
