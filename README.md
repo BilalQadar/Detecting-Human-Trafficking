@@ -5,7 +5,7 @@ This project is a submission to the Big Data & AI competition hosted by the [Uni
 
 ## Authors
 
-Bilal Qadar & [Juan Castaneda](https://github.com/juancastaneda1)
+Bilal Qadar, [Juan Castaneda](https://github.com/juancastaneda1) and Kayla Schneider
 
 ## Packages
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following.
